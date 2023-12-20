@@ -31,7 +31,7 @@ This notebook provides a comprehensive overview of the fine-tuning process for B
 
 ### Results
 
-![results]()
+![results](https://github.com/Thomas-rnd/NLP_post-editing/blob/main/img/results.png)
 
 ## References:
 
