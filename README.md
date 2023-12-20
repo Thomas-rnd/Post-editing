@@ -4,7 +4,7 @@
 
 This project aims to improve Automatic Speech Recognition (ASR) output using a Bidirectional Auto-Regressive Transformer (BART) for error correction. Inspired by Samrat Dutta's work on "Error Correction in ASR using Sequence-to-Sequence Models" [1], the approach involves fine-tuning BART with a custom dataset created by simulating errors in ASR predictions.
 
-![design]()
+![design](https://github.com/Thomas-rnd/NLP_post-editing/blob/main/img/design.png)
 
 ### Acknowledgment:
 
